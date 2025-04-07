@@ -10,7 +10,7 @@ I'm a passionate **Full-Stack Developer** with a love for coding, learning, and 
 - **Authentication:** Clerk, JWT
 - **Tools:** Postman, VS Code, NPM, Git, Vercel
 
-## 🔗 Get Connected
+## 🔗 Innovate Together
 
 I'm always looking for **collaborators** and **contributors** to join me in creating **innovative projects**.  
 Feel free to **fork, star, and contribute** to my repositories. Let's build something amazing together! 🚀  
